@@ -1,0 +1,14 @@
+﻿Sta je object pool?
+
+Object pooling je nesto sto pokusava da sacuva pool objekata u memoriju da bi se iskoristili kasnije
+i samim tim smanjuje se potreba za kreiranjem novih objekata
+
+Sta to znaci?
+Znaci da object pool nije nista osim kontejnera objekata spremni za upotrebu.
+Gde god se ukaze potreba za novim objektom, pool menadzer ce obraditi zahtev 
+i dodeliti objekat iz poola
+
+Kako to radi?
+Iskoristicemo Factory patern. Imamo factory metod, koji ce se postarati oko kreacije objekata.
+Gde god ima potrebe za novim objektom, faktori metod ce pogledati u object pool(koristimo Queue objekat).
+Ako ima slobodan objekat u dozvoljenom limitu, vratice objekat inace ce se kreirati novi objekat.

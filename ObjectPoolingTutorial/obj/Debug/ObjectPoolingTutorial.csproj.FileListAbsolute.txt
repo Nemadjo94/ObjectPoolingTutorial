@@ -1,0 +1,7 @@
+C:\Users\Nemanja Djordjevic\source\repos\ObjectPoolingTutorial\ObjectPoolingTutorial\bin\Debug\ObjectPoolingTutorial.exe.config
+C:\Users\Nemanja Djordjevic\source\repos\ObjectPoolingTutorial\ObjectPoolingTutorial\bin\Debug\ObjectPoolingTutorial.exe
+C:\Users\Nemanja Djordjevic\source\repos\ObjectPoolingTutorial\ObjectPoolingTutorial\bin\Debug\ObjectPoolingTutorial.pdb
+C:\Users\Nemanja Djordjevic\source\repos\ObjectPoolingTutorial\ObjectPoolingTutorial\obj\Debug\ObjectPoolingTutorial.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\ObjectPoolingTutorial\ObjectPoolingTutorial\obj\Debug\ObjectPoolingTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\ObjectPoolingTutorial\ObjectPoolingTutorial\obj\Debug\ObjectPoolingTutorial.exe
+C:\Users\Nemanja Djordjevic\source\repos\ObjectPoolingTutorial\ObjectPoolingTutorial\obj\Debug\ObjectPoolingTutorial.pdb
